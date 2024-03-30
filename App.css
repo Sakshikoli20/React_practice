@@ -1,0 +1,44 @@
+.header-container {
+  padding: 16px;
+  border-bottom: 1px solid #bdbdbd;
+}
+
+.logo {
+  height: 60px;
+  width: 60px;
+  border: 1px solid #bdbdbd;
+  margin-right: 32px;
+}
+
+.book-list {
+  display: flex;
+}
+
+.card-container {
+  border: 1px solid #bdbdbd;
+  margin: 12px;
+  padding: 16px;
+  min-height: 180px;
+}
+
+.card-image {
+  min-height: 160px;
+  margin-bottom: 8px;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  background: grey;
+  color: white;
+  border-radius: 50%;
+  box-shadow: none;
+  border: none;
+  font-size: 16px;
+  height: 32px;
+  width: 32px;
+  background: blue;
+}
